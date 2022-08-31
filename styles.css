@@ -1,1 +1,7 @@
-/* Copy and paste your CSS from CodePen into here */
+img{display:block;}
+#image{max-width: 100%;
+height: auto;
+align-items: center;
+}
+body{ text-align: center;}
+.banner{ background-color: 	#D3D3D3;}
